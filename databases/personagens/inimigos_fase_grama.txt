@@ -1,0 +1,5 @@
+BestaOgra 500 25 20 500
+ograo.png
+Ogro 100 10 10 50
+ogrinho.png
+ 

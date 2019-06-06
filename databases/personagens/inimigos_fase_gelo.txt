@@ -1,0 +1,5 @@
+Lamia 500 25 20 500
+Lamia.png
+Soldado 100 10 10 50
+LamiaSoldier.png
+ 

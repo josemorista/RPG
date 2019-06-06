@@ -1,0 +1,5 @@
+Dragonete 100 15 0 50
+dragonete.png
+Ifrir 300 25 20 500
+dragon.png
+ 
